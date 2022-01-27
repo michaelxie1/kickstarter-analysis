@@ -1,7 +1,8 @@
 # kickstarter-analysis
 Analyzing Kickstarter data trends
+
 Overview:
-The purpose of the project is to learn the basics of Excel and to be able to comb through and organize data and even convert elements of the data into visual datasets such as graphs/ pivot tables. We would be able to use a variety of functions built into Excel and understand how to extract specific columns and see the correlation between different groups of data.
+The purpose of the project is to learn the basics of Excel and to be able to comb through and organize data, while being able to convert elements of the data into visual datasets such as graphs/ pivot tables. We would be able to use a variety of functions built into Excel and understand how to extract specific columns and see the correlation between different groups of data.
 ---
 Analysis and Challenges:
 	Some difficulties that I came across while going through the deliverables would be understanding some of the fields required to put in the formula. Some of the formulas had similar names, such as COUNTIF() and COUNTIFS(). Another challenge would be some of the simple mistakes that I made, such as misanalysing certain rows and having to apply the fix to all the rows that I had already created. I either recreated the dataset once more or just used the find and replace feature within Excel.
